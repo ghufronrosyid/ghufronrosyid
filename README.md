@@ -1,26 +1,28 @@
 ```text
-Otttf|xjCn\vfLYvO*WWM*#MMMMokbkkkkhhhkbbkhhhhbqdkhbkkhmZdkdU   ghufron@poh --------------------------------------------------
-czXuXuzxQvnuzJcJ0*WM#aaoWWWMMahooM###aaa*%WMM##MWM#MM*mOwphp   OS:                                                 Linux, iOS
-O$$$$B8Ou/(/x|f\zCd$@@$bftzffc/Odbbbkmpkk0OwwwmLZwOwOQYLOCLQ   Uptime:                                    building since 2018
-m$@$$Q|\\|j}?-}(<>1Z$$8z;fO0mdwO@B%B@@%%a[~<__~/__+-}?<{[/0J   Host:                                                POH Agent
-0$$8Y)uXzuUXf(Yzx|~>fB%x_f|ud%$$$$$$$@$$$$0xt){}1(>+1[~\<|zJ   Kernel:                           Founder, AI Customer Service
-d@w\-uj1?~+)rf(|\(r1ir*u?[1ck$@$BZuYf1fYYYXtx(+|t+-~-+{1~jCQ   IDE:                                             VS Code, Muse
-0C)([]!_>+~i-))|((\|?]Cz]}Oo%B$$$&oMpO0mmw[i/}+-[(\+[1({_\qJ   
-OhJr?~?~??>}-~1z[]|jjrcOXrrccUXXcX0JzOOYCUvucJYcc\rzzYYwtvm0   Languages,Programming:          JavaScript, TypeScript, Python
-cYjn?{(\[)}]f/j|\]{tjuwu)-?~--+-<[?||zJcv<!?f+!})>]+[<1n!tCL   Languages,Computer:                      HTML, CSS, JSON, YAML
-QOUt//}|}1|}t){1f{txnx%U/]([~x_!\Od*ZYJUUzcxzvxz/<?[+?[1-1OL   Languages,Real:                            Indonesian, English
-wq\\r+??][[+[fv|(+\xv08LnxvxzcrnfcZwUu|nrfncxjrzu)/f|rnrtXLC   
-Cmuv>+-!-??}_(}[|-{t|U#c[[)tn}t/|/vOLn/fttf+\~i()<r+-<?}+>zJ   Hobbies,Software:                 AI Automation, Telegram Bots
-C&h(f)[|})]rf|1?[_1?[LLkOmOXQXuCzUQCXUzvCLXxux{)jxxfvfjvfxLQ   Hobbies,Hardware:                    Homelab VPS, Self-hosting
-Q$$w)[)x{)f}1t]}}<+tckam|f\/xnrrfqufff\1/cuvUZffuff|{t\t)jLC   
-Q$$$L({[{)_{[[}}1})xU$$L}[{1>/]_{pZ0JYUUYzXUXr?]?i?}!~>?_1CL   Contact ------------------------------------------------------
-Q$$$$dx}}?{{}(}}1tvYZ$MC])1\){vk0o$$$$$$WZmt?l?[_}[~{{]??[UQ   Telegram:                                            @pohagent
-L$$$&h)>t(1)(1{un[xb$@0z??+~]Uo$$$$$$$$$@WoYcvUdooZ_?_~)>(J0   WhatsApp:                                    +62 819-1920-9348
-0$$$m1+~-]tn/tuut+/b$@wc{xu/YW@BBB%%%%&8aXzYYUUQ0UUt|/r(1X0J   Website:                                           mazpoh.site
-m$@dz--?i[_?1)r)[11JW$$Q(zzYxjuXzCCzYYYLJUCUXzJLzvuXCOLLLZw0   GitHub:                                          ghufronrosyid
-Zku1x|+<({}?-(|}[{)zrU$Q?1?ubakk\czjxxXc|ft~U0z))xdoUO#X-)OQ   
-mkuYwL(fj/x\)))trfcuzu#X]1\ff0X0wQOCOQwkc][inc)-1[\tr)){-(QQ   GitHub Stats -------------------------------------------------
-QqZwOQUXCQJYUYULLwQzY0mcnxYYcU\txru\trYY/ufvCr/\trcJz\(tuzLL   Repos:                                       11   |   Stars: 0
-                                                               Followers:                                1   |   Following: 6
-                                                               Code on GitHub:                                       ~13.0 MB
+   `u: ^^^,,",,;IIll;::I::I;;` .U[;_/|bkkhaao***oo**#M###okd   ghufron@poh --------------------------------------------------
+   ^u".^",::,:;I;IIl+1jXJCUvf1>;U~,-/jbdbbkkkhaaaaaoo***oabq   OS:                                                 Linux, iOS
+   ,u^^::;llI;I;^_ndW$$$$$$$$$$&MOt{(xhbkkbkkkhhhhaaooo*oabp   Uptime:                                    building since 2018
+.  :u",Ilii!lI!>/h$$$$$$@8oM@8@$$$$&CrzcXXYUUUJJJJCCLLQQQQLL   Host:                                                POH Agent
+.. Iv,,li>>>i<]r8$$$$$$$M*pqmOo$$@$$$MpOO0QLCJUYYYXXXzcvuuuu   Kernel:                           Founder, AI Customer Service
+.' lu:;!<~~+-~[Ckaa*#b0cXzuj|}{J@$$$$$$8dwwOLUcuxrj/((|))1{-   IDE:                                             VS Code, Muse
+.' in:!i~+_]+I}zcLkzr)+hOOZqM-i]]J%$$$$$Wq0QUcrf\\||t\()1(j:   
+'` <x:>~+-?{,Y$$$8m}{i_Yk*##QII|\[?d8$$$$oQCzx({?~+[1]-+!+f.   Languages,Programming:          JavaScript, TypeScript, Python
+`` +r"i>~--[<[cJLc:I^.:>\\}+.   .ma0whWB$*LCzx()1}1|({]-i?/.   Languages,Computer:                      HTML, CSS, JSON, YAML
+'' -j">>+++-]~))juC}}j!-1I'    . Up_1\C$$pLJzr)){}1|(}]_!}\    Languages,Real:                            Indonesian, English
+.. ?j`li<<~+?]/?-jXcnj|]:       `+ ^x-r$oOLJzf{{1[1)1]+~l[(    
+`' [f':I!i<~+_[rxXLXXvr{"       ..)|\OWdOZQCXr|(|(||(}]]~(}    Hobbies,Software:                 AI Automation, Telegram Bots
+'. }\.;Il!><~_-(cuzUQr<  .      ']]#$@dZmOQJzj)1)1)(1]]?i{[    Hobbies,Hardware:                    Homelab VPS, Self-hosting
+`. )\`I!iii<+_]?rYj/n{.      .,!_^u$kQpmmOQJzr()){{(1[??i1?    
+`' |1`Illl!>~+-?[vJ0ZOX)?{)(||(+` J%fQdmmO0CXr\||((|({[]>(-    Contact ------------------------------------------------------
+.. t} `^^":!ii~_--|(vO0ZJ(<~>`    tUjZdmmO0CXxtt\|\\|)}]>)~    Telegram:                                            @pohagent
+!`./)?[}}}}}{1(\//t|tX(1+         (YnmdmmZ0CYujjfttt\|))?|>    WhatsApp:                                    +62 819-1920-9348
+{-+?+~>+?}}{{{1)())|(uvtr+.:;'   .![twpmmO0CYnjffftt/||1-|l    Website:                                           mazpoh.site
+tuJUCJ[[\ffjf\1[]-__+tzc/: ]{`     iXkbqpm0Jcrfjfftt/|)}~(I    GitHub:                                          ghufronrosyid
+vUJC0q0cUCLCJXuxxxzQdLcUu]l(f}` I|m8B#*#M#opQnt\||||()}[~|l    
+cXUUL0mLCCYUQpM%@$$$$x+1\|[-}fYp&$B&##MW###MMobmJut|}---l)l    GitHub Stats -------------------------------------------------
+i}tuuttxucpW$$$$$$$@B*z)1/zOh8$@%&WWMM#**MM&8W&&MokpOY|+>|l    Repos:                                       11   |   Stars: 0
+I{}LYxnrXM$$$$$$$$$$$$$$$$$$$$@@@%8WM#MMM&%BWW&&M***#abC_|i.   Followers:                                1   |   Following: 6
+UJUOmJuc8$$$$$$$$$$$$$@@$@@@$$$@B%88WM&W&@B*%$@%&#*akdqdQfi.   Code on GitHub:                                       ~13.0 MB
+00QQ0OC*$$$$$$$$$$$$$$$$$$$$$$$$$%888M8W@Ba8$@@%#%bohkkZpC>    
+zYJJUYp$$$$$$$$$$$$$$$$$$$$$$$$$$%%%8M&%@h#$@$@MM@bBkaMmmZ?
 ```
